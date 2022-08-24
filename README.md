@@ -19,3 +19,17 @@ Interpretar los resultados que se obtuvieron.
 MARCO TEÓRICO
 
 CAPÍTULO 15
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Circuitos%20en%20serie%20Cap%2015.png)
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Circuitos%20en%20paralelo%20Cap%2015.png)
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Circuitos%20en%20serie%20-%20paralelo%20Cap%2015.png)
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Temas%20especiales%20Cap%2015.png)
+
+CAPÍTULO 16
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Circuitos%20en%20serie%20Cap%2016.png)
+
+![](https://github.com/MelanyArmas/Tarea-8/blob/main/Circuitos%20en%20paralelo%20Cap%2016.png)
