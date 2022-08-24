@@ -33,3 +33,7 @@ CAPÍTULO 16
 ![](https://github.com/MelanyArmas/Tarea-8/blob/main/Circuitos%20en%20serie%20Cap%2016.png)
 
 ![](https://github.com/MelanyArmas/Tarea-8/blob/main/Circuitos%20en%20paralelo%20Cap%2016.png)
+
+EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
+
+CAPÍTULO 15:
